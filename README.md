@@ -34,12 +34,6 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 #### Step 5: Observations and Conclusion  
 
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
 
 ### Contributors
 - Arpita Bandyopadhyay
